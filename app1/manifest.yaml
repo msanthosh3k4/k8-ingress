@@ -46,7 +46,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.awsxpense.online"
+  - host: "app1.awsexpense.online"
     http:
       paths:
       - pathType: Prefix
